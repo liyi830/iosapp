@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xjt021.com/xjt021.png</string>
+					<string>http://myapp-1252856730.cossh.myqcloud.com/SRLeaderBIZ/IOS/xjt021.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xjt021.com/xjt021.png</string>
+					<string>http://myapp-1252856730.cossh.myqcloud.com/SRLeaderBIZ/IOS/xjt021.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.ju.xjtbiz</string>
 				<key>bundle-version</key>
-				<string>0.0.8</string>
+				<string>0.0.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>

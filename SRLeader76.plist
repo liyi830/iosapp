@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xjt021.com/xjt021.png</string>
+					<string>http://myapp-1252856730.cossh.myqcloud.com/SRLeader/IOS/xjt021.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xjt021.com/xjt021.png</string>
+					<string>http://myapp-1252856730.cossh.myqcloud.com/SRLeader/IOS/xjt021.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,11 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>com.ju.SRLeader</string>
 				<key>bundle-version</key>
-				<string>0.0.8</string>
+				<string>0.0.9</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>小居头app下载</string>
+				<string>小居头app</string>
 			</dict>
 		</dict>
 	</array>

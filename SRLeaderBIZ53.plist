@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://myapp-1252856730.cossh.myqcloud.com/SRLeaderBIZ/IOS/app.ipa</string>
+					<string>http://192.168.19.53:8080/SRLeaderRes/app/SRLeaderBIZ53/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
